@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Netflix Website Frontend Clone
 
 A responsive Netflix-style streaming website frontend built with modern web technologies. This project replicates the user interface and user experience of Netflix with custom design elements and animations.
